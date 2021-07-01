@@ -13,14 +13,14 @@ code {
 }
 
 .app {
-  background: #209cee;
+  background: #9999ff;
   padding: 30px;
   height: 100vh;
 }
 
 .todo-list{
-  background: #e8e8e8;
-  border-radius: 4px;
+  background: #ffccff;
+  border-radius: 8px;
   padding: 5px;
   max-width: 400px;
 }
